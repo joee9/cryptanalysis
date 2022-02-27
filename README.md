@@ -1,6 +1,8 @@
 # Cryptoanalysis Software/Encryption-Decryption Algorithms
 For College of the Holy Cross, CSCI 399: Computer Security, Project 1; see project specifications in `p1-questions.pdf`.
 
+Published 27 February 2022 from a private CSCI399 repository.
+
 This repository contains three files, each with a different purpose.
 
 1. `vigenere_knownkey.py` will encrypt and decrypt text using a Vigenere cipher with a specified key. Place the file name of the input text (encrypted or decrypted) in `file` in `main()`, present a key, and an output file will be written. An example is given in `cipherKnownKey.txt`, with the decrypted file in `cipherKnownKey-decrypt.txt`, given the key "TAGORE".
